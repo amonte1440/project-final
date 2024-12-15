@@ -1,0 +1,4 @@
+#Sat Dec 14 11:44:53 MST 2024
+base.0=/Users/anthonymonte/Documents/cs-5651-project-1/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/build/intermediates/dex/release/mergeDexRelease/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

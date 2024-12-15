@@ -1,0 +1,10 @@
+com.DefaultCompany.cs5651project1.launcher-pngs-0 /Users/anthonymonte/Documents/cs-5651-project-1/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/build/generated/res/pngs/release
+com.DefaultCompany.cs5651project1.launcher-resValues-1 /Users/anthonymonte/Documents/cs-5651-project-1/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/build/generated/res/resValues/release
+com.DefaultCompany.cs5651project1.launcher-rs-2 /Users/anthonymonte/Documents/cs-5651-project-1/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/build/generated/res/rs/release
+com.DefaultCompany.cs5651project1.launcher-mergeReleaseResources-3 /Users/anthonymonte/Documents/cs-5651-project-1/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/build/intermediates/incremental/release/mergeReleaseResources/merged.dir
+com.DefaultCompany.cs5651project1.launcher-mergeReleaseResources-4 /Users/anthonymonte/Documents/cs-5651-project-1/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/build/intermediates/incremental/release/mergeReleaseResources/stripped.dir
+com.DefaultCompany.cs5651project1.launcher-merged_res-5 /Users/anthonymonte/Documents/cs-5651-project-1/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/build/intermediates/merged_res/release
+com.DefaultCompany.cs5651project1.launcher-main-6 /Users/anthonymonte/Documents/cs-5651-project-1/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/src/main/res
+com.DefaultCompany.cs5651project1.launcher-release-7 /Users/anthonymonte/Documents/cs-5651-project-1/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/src/release/res
+com.DefaultCompany.cs5651project1.launcher-packaged_res-8 /Users/anthonymonte/Documents/cs-5651-project-1/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/packaged_res/release
+com.DefaultCompany.cs5651project1.launcher-packaged_res-9 /Users/anthonymonte/Documents/cs-5651-project-1/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/xrmanifest.androidlib/build/intermediates/packaged_res/release
